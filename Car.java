@@ -1,5 +1,3 @@
-package csc251.team.project;
-
 import java.util.Scanner;
 
 public class Car {

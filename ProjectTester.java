@@ -1,6 +1,3 @@
-package csc251.team.project;
-
-
 public class ProjectTester {
 
 	public static void main(String[] args) {

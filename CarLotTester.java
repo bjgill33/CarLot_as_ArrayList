@@ -1,5 +1,3 @@
-package csc251.team.project;
-
 public class CarLotTester {
 	public static void main(String[] args) {
 		CarLot lot = new CarLot();
